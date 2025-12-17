@@ -24,7 +24,7 @@ body {
   text-align: center;
 }
 
-.social_card {
+#social_card {
   margin: 2rem;
   max-width: 330px;
   padding: 1.3rem 0.8rem;
