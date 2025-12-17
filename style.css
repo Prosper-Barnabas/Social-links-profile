@@ -24,11 +24,8 @@ body {
   text-align: center;
 }
 
-#social {
-  margin: 2rem;
-}
-
 .social_card {
+  margin: 2rem;
   max-width: 375px;
   padding: 1.3rem 0.8rem;
   border: 1px solid var(--Grey-800);
@@ -76,6 +73,9 @@ body {
   margin: 1rem;
   background-color: var(--Grey-700);
   font-weight: 600;
+  display: flex;
+  justify-content: center;
+  text-wrap: nowrap;
 }
 
 .social_link:hover {
