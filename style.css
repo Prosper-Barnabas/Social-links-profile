@@ -15,7 +15,7 @@
 body {
   font-family: "Inter", sans-serif;
   background-color: var(--Grey-900);
-  min-height: auto;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -41,8 +41,7 @@ body {
 
 .social_profile_image img {
   border-radius: 50%;
-  border-color: black;
-  width: 5rem;
+  width: 4.8rem;
 }
 
 .social_profile h1 {
@@ -69,7 +68,7 @@ body {
   border: 1px solid var(--Grey-700);
   border-radius: 0.5rem;
   list-style-type: none;
-  padding: 0.8rem 10vw;
+  padding: 0.7rem 10vw;
   margin: 1rem;
   background-color: var(--Grey-700);
   font-weight: 600;
